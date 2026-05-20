@@ -1,10 +1,9 @@
 # Healthcare Analytical Project
 
-## Objective 
 Analyse healthcare utilization and provider billing pattern using SQL, Python and Power BI
 
-# Tools
+## Tools
 - SQL
-- Python 
+- Python
 - Power BI
-- Github
+- GitHub
