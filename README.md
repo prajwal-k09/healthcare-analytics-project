@@ -134,11 +134,10 @@ Florida records the highest Medicare service volume among the analyzed states.
 ## Dashboard Preview
 
 
-```text
 ## Dashboard Preview
 
 ![Dashboard Overview](https://raw.githubusercontent.com/prajwal-k09/cms-healthcare-provider-analytics/main/screenshot/dashboard_overview.png)
-```
+
 
 ---
 
