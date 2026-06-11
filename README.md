@@ -179,7 +179,7 @@ Prajwal Kolhe
 
 Healthcare Analytics | SQL | Python | Power BI | Business Intelligence
 
-LinkedIn: linkedin.com/in/prajwal-kolhe
+LinkedIn: LinkedIn: [Prajwal Kolhe](https://www.linkedin.com/in/prajwal-kolhe)
 
 GitHub: https://github.com/prajwal-k09
 
